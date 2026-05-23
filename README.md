@@ -1,2 +1,2 @@
-# wain25
-IEEE ICDM 5th Workshop on AI for Nudging and Personalization.
+# wain26
+IEEE ICDM 6th Workshop on AI for Nudging and Personalization.
