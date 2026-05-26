@@ -241,8 +241,8 @@ tr:nth-child(even) {
 /* Main title text */
 .title1 {
     color: #b2132e;
-
-    font-size: clamp(1.4rem, 3vw, 2.8rem);
+   
+    font-size: clamp(1.6rem, 3.5vw, 3.4rem);
 
     font-weight: 400;
 
