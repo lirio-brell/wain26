@@ -217,7 +217,7 @@ tr:nth-child(even) {
     display: block;
 
     width: 100%;
-    height: 180px;          /* MAIN HEIGHT CONTROL */
+    height: 210px;          /* MAIN HEIGHT CONTROL */
 
     object-fit: cover;
 }
