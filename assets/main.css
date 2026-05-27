@@ -308,13 +308,6 @@ tr:nth-child(even) {
     font-weight: 300;
 }
 
-.logo-img {
-    width: 180px;
-    height: 92px;
-
-    object-fit: contain;
-}
-
 
 /* ==========================================================================
    Navigation
@@ -376,6 +369,12 @@ td.sponsor img {
     object-fit: cover;
 
     border-radius: 8px;
+}
+.logo-img {
+    width: 180px;
+    height: 92px;
+
+    object-fit: contain;
 }
 
 
