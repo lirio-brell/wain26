@@ -189,7 +189,7 @@ th,
 td {
     padding: 0.6rem;
     text-align: left;
-    vertical-align: top;
+    vertical-align: center;
 }
 
 tr:nth-child(even) {
