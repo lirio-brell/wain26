@@ -371,10 +371,17 @@ td.sponsor img {
     border-radius: 8px;
 }
 .logo-img {
-    width: 90px;
-    height: 46px;
+    display: block;
 
-    object-fit: contain;
+    width: 180px !important;
+    height: 92px !important;
+
+    object-fit: contain !important;
+
+    margin: 0 auto;
+
+    background: white;
+    padding: 4px;
 }
 
 
