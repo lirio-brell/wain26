@@ -242,7 +242,7 @@ tr:nth-child(even) {
 .title1 {
     color: #b2132e;
    
-    font-size: clamp(1.6rem, 3.5vw, 3.4rem);
+    font-size: clamp(1.6rem, 3.5vw, 3.8rem);
 
     font-weight: 400;
 
@@ -287,7 +287,7 @@ tr:nth-child(even) {
 
 .title1 {
     color: var(--accent);
-    font-size: 1.5em;
+    font-size: 1.8em;
     font-weight: 300;
     line-height: 1.1;
 
